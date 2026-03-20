@@ -13,7 +13,7 @@
 
 ### About Me
 
-AI Engineer & Creative Technologist based in **Dubai, UAE**, working at **[AI Brains](https://www.aibrains.com)** — a startup specializing in AI, Metaverse, and Hologram technology.
+AI Engineer & Creative Technologist based in **Dubai, UAE**, working at **[AI Brains](https://www.aibrains.com)** —  specializing in AI, Metaverse, and Hologram technology.
 
 I build things at the intersection of artificial intelligence and immersive experiences: AI-powered holographic characters, metaverse environments for government and enterprise clients, intelligent web applications, and 3D interactive systems.
 
